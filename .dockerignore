@@ -1,0 +1,14 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Source docs and tooling not needed at runtime
+Chapters/
+howcryptoworksbook-kor/
+build_kor_site.py
+CONTRIBUTING.md
+readme.md
+table_of_contents.md
